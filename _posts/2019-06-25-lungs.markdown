@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Lung video"
+date:   2019-06-25 00:00:00 +0000
+categories: creative
+---
+
+A video I worked on is out.
+
+One of the most fun projects I've worked on during my degree is out. In a small group we made a [little educational video about the lungs][lung]. I did most of the video editing and animation, and had a great time doing it. It's cool to break up the constant essays and questions with a project at University which is creative and different!
+
+![Lung video still](/assets/lung.png)
+
+[lung]: https://digitalmedia.sheffield.ac.uk/media/The+Lungs/1_m7jzsvtg
