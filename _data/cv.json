@@ -1,0 +1,135 @@
+{
+    "basics": {
+      "name": "James Hurcomb",
+      "label": "Toxicologist",
+      "image": "",
+      "email": "jamesdhurcomb@gmail.com",
+      "url": "https://jdhur.co",
+      "summary": "Final-year PhD student in toxicology with experience studying drug impacts across multiple organ systems. Skilled
+in research, data analysis, and scientific communication. Keen to apply expertise gained through academic study to
+exciting new problems.",
+      "location": {
+        "city": "Cambridge",
+        "region": "Looking for opportunities across UK & Europe"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "jameshurcomb",
+        "url": "https://linkedin.com/in/jameshurcomb"
+      }]
+    },
+    "work": [{
+      "company": "MRC Toxicology Unit, University of Cambridge",
+      "position": "PhD Student",
+      "website": "https://www.mrc-tox.cam.ac.uk/staff/james-hurcomb",
+      "startDate": "2021-10-01",
+      "endDate": "2025-09-30",
+      "summary": "",
+      "highlights": [
+        "Undertook multiple projects investigating pathways of drug and environmental pollutant toxicity induced inter-organ communication with a focus on the
+gastrointestinal system and whole-body metabolic homeostasis",
+" Extensive experience with common molecular biology, biochemistry, and microscopy techniques",
+"Analysed complex datasets using R and Python",
+"Presented work in departmental seminars and at national and international conferences",
+"Contributed to multiple peer-reviewed manuscripts and took part in outreach and public engagement work"
+      ]
+    },
+    {
+        "company": "University of Cambridge",
+        "position": "Supervisor and Demonstrator",
+        "website": "https://www.pdn.cam.ac.uk/",
+        "startDate": "2022-10-01",
+        "endDate": "2025-06-30",
+        "summary": "",
+        "highlights": [
+            "Designed and delivered a series of weekly small group tutorials across three
+            different first-year courses for medical and biological science students",
+            "Facilitated interactive discussions to reinforce key concepts, promote critical
+            thinking, and enhance student understanding of complex biological processes",
+            "Provided personalized feedback and guidance to help students strengthen
+            problem-solving skills, improve exam techniques, and succeed academically",
+            "Acted as a demonstrator for more than 30 practical classes across first/second
+            years of medical and biological science courses teaching 50+ students per class"
+        ]
+      }],
+    "volunteer": [{
+      "organization": "St Edmund's College Combination Room",
+      "position": "Secretary",
+      "website": "https://www.st-edmunds-cr.com/previous-committees",
+      "startDate": "2023-10-01",
+      "endDate": "2024-10-01",
+      "summary": "",
+      "highlights": [
+        "Overall responsibility for internal and external communications of the St. Edmund’s College Combination Room (Student’s Union)",
+"Managed website and email list, drafted constitutional changes following student votes, and collaboratively determined policy direction with other committee members"
+      ]
+    }],
+    "education": [{
+      "institution": "University of Cambridge",
+      "website": "https://www.mrc-tox.cam.ac.uk/",
+      "area": "Toxicology",
+      "studyType": "PhD",
+      "startDate": "2021-10-01",
+      "endDate": "2025-09-30",
+      "score": "",
+      "courses": [
+        "Studied at the MRC Toxicology Unit",
+        "Studied German A2 level in spare time"
+      ]
+    },
+    {
+        "institution": "University of Sheffield",
+        "website": "https://www.sheffield.ac.uk/programmeregulationsfinder/programme?code=BMSU07&org=SHEFFIELD&start=24-Sep-2018&moa=FT&year=2018",
+        "area": "Biomedical Science",
+        "studyType": "MBiomedSci (Hons)",
+        "startDate": "2017-09-01",
+        "endDate": "2021-07-01",
+        "score": "First Class",
+        "courses": [
+          "Studied a comprehensive course covering key concepts across the biological
+sciences (Developmental Biology, Cell and Molecular Biology, Anatomy, Pathology), with a particular
+focus in final year studies on Physiology and Pharmacology"
+        ]
+      }],
+    "awards": [{
+      "title": "Award",
+      "date": "2021-07-01",
+      "awarder": "University of Sheffield",
+      "summary": "Master of Biomedical Science prize for best performance in cohort."
+    }],
+    "publications": [{
+      "name": "Oral administration of aripiprazole to Drosophila causes intestinal toxicity",
+      "publisher": "Disease Models and Mechanisms, Company of Biologists",
+      "releaseDate": "2025",
+      "website": "https://journals.biologists.com/dmm/article/18/3/dmm052180/367470/Oral-administration-of-aripiprazole-to-Drosophila",
+      "summary": "<sup>**James D Hurcomb**, Amrita Mukherjee, Anna E. Lindell, Rebeka Popovic, Yizhou Yu, Kiran R. Patil, Samantha H. Y. Loh, L. Miguel Martins </sup>"
+    },
+    {
+        "name": "Enhancing mitochondrial one-carbon metabolism is neuroprotective in Alzheimer’s disease models",
+        "publisher": "Cell Death & Disease, Nature Publishing Group",
+        "releaseDate": "2024-11-24",
+        "website": "https://www.nature.com/articles/s41419-024-07179-3",
+        "summary": "<sup>Yizhou Yu, Civia Z Chen, Ivana Celardo, Bryan Wei Zhi Tan, **James D Hurcomb**, Nuno Santos Leal, Rebeka Popovic, Samantha HY Loh, L Miguel Martins </sup>"
+      },
+      {
+        "name": "Binocular mirror–symmetric microsaccadic sampling enables Drosophila hyperacute 3D vision",
+        "publisher": "Proceedings of the National Academy of Sciences",
+        "releaseDate": "2022-03-22",
+        "website": "https://www.pnas.org/doi/abs/10.1073/pnas.2109717119",
+        "summary": "<sup>Joni Kemppainen, Ben Scales, Keivan Razban Haghighi, Jouni Takalo, Neveen Mansour, James McManus, Gabor Leko, Paulus Saari, **James Hurcomb**, Andra Antohi, Jussi-Petteri Suuronen, Florence Blanchard, Roger C Hardie, Zhuoyi Song, Mark Hampton, Marina Eckermann, Fabian Westermeier, Jasper Frohn, Hugo Hoekstra, Chi-Hon Lee, Marko Huttula, Rajmund Mokso, Mikko Juusola</sup>"
+      }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+        "language": "German",
+        "fluency": "A2"
+      }],
+    "interests": [{
+      "name": "Reading"
+    },
+    {
+        "name": "Running"
+      }]
+  }

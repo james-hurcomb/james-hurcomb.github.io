@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hi, I’m James. I'm a PhD student in toxicology, studying how drugs and environmental pollutants affect how organs in the body communicate. My research focuses on whole-body coordination of metabolism, and mitochondrial dysfunction using *Drosophila* as a model system. I'm currently wrapping up my PhD and looking for opportunities in Europe working in toxicology, medical writing, mitochondrial biology, or regulatory affairs!
+Hi, I’m James. I'm a PhD student in toxicology, studying how drugs and environmental pollutants affect how organs in the body communicate. My research focuses on whole-body coordination of metabolism, and mitochondrial dysfunction using *Drosophila* as a model system.
 
 Feel free to [read more about me][about], [look at my CV][cv], or take a look below to see some of the things I've been up to recently.
 
