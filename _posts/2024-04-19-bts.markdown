@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "BTS Congress 2024"
+date:   2024-04-19 00:00:00 +0000
+categories: conference
+---
+
+I recently attended the BTS conference in Liverpool.
+
+[The BTS congress is the annual conference of the *British Toxicology Society*][bts], a meeting for professionals and academics working in the toxicology field in the UK. I presented my research on novel model systems for investigating gastrointestinal side effects of drugs as a poster and had some interesting discussions about my research, which I am preparing for publication.
+
+[bts]: https://www.thebts.org/events/bts-annual-congress-2024-spaces-at-the-spine-liverpool/

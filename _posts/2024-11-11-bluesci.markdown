@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "BlueSci Issue #60"
+date:   2024-11-11 00:00:00 +0000
+categories: article
+---
+
+Over the last few months I've acted as issue editor of the 60th Edition of BlueSci magazine. 
+
+[The issue is now available to read online!][bluesci-60] I had a lot of fun working with a cool group of students and scientists, working together with amateur artists, writers, science journalists, and editors.
+
+Taking part in [BlueSci][bs-homepage] as an issue editor is a great experience: I would encourage any Cambridge student to take part. You are in charge of coming up with a theme, sorting through the article pitches and deciding which to publish, coordinating a team of editors, liaising with artists, and the assembly of the magazine using Adobe InDesign. As long as you're good at managing your time and directing others the role is very manageable alongside your studies. Along the way you have plenty of help: BlueSci has a managing editor, and a team of editors each with their own specialism: News, Physics, Biology, Art... it's truly a team effort!
+
+The final magazine turned out well, and has quite a few interesting articles: and a really nice front cover:
+
+![The front cover of BlueSci issue 60](/assets/bs_60.png)
+
+[bluesci-60]: https://www.bluesci.co.uk/img/magazine/files/owkg84sw0cowwo4w8o488kg0sc84kw0sg4gkwko0g48wkg0k8g0kk4o4g80oks8k/magazine
+[bs-homepage]: https://www.bluesci.co.uk/
