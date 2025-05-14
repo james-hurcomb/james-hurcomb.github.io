@@ -2,7 +2,7 @@
 layout: post
 title:  "Master's project"
 date:   2021-05-16 00:00:00 +0000
-categories: paper
+categories: updates
 ---
 
 I've finished my Master's project.
